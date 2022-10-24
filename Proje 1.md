@@ -1,6 +1,6 @@
 # [22,27,16,2,18,6]
 
-## 	Yukarıda Verilen Dizinin Sort Türüne Göre Aşamalarını Yazınız.
+## 	Yukarıda Verilen Dizinin Insertion Sort Türüne Göre Aşamalarını Yazınız.
 
 1) [2,27,16,22,18,6]
 
